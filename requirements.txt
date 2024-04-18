@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+transformers
+tqdm
+scikit-learn
+fastapi
+uvicorn
+datasets
