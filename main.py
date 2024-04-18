@@ -5,9 +5,9 @@ from inference import setup_pipeline
 
 
 pipeline = setup_pipeline(
-    model_name="bert-base-cased", 
+    model_name="bert-base-uncased", 
     # model_path="/Users/alexuvarovskiy/Documents/course_competition/trainer/checkpoint-1140/pytorch_model.bin"
-    model_path="/app/trainer/checkpoint-1140/pytorch_model.bin"
+    model_path="/app/pytorch_model.bin"
 )
 
 app = FastAPI(root_path="/api/v1")
