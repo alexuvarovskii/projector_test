@@ -24,6 +24,7 @@ There upu need to set path to trained model. to the variable `path_to_trained_mo
 
 RMSE on val set in my case is RMSE: 0.5945103809534943
 
+Trained model link [here](https://drive.google.com/file/d/1HOBu8hsvWC-mBho27CAmXOCOHu3_cyXE/view?usp=drive_link)
 
 ### 2. Create API with only one endpoint
 
